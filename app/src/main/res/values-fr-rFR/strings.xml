@@ -38,35 +38,35 @@
 
     <!--Length-->
 
-    <string name="attometer">Attometer</string>
+    <string name="attometer">Attomètre</string>
 
     <string name="attometer_short">am</string>
 
-    <string name="nanometer">Nanometer</string>
+    <string name="nanometer">Nanomètre</string>
 
     <string name="nanometer_short">nm</string>
 
-    <string name="micrometer">Micrometer</string>
+    <string name="micrometer">Micromètre</string>
 
     <string name="micrometer_short">μm</string>
 
-    <string name="millimeter">Millimeter</string>
+    <string name="millimeter">Millimètre</string>
 
     <string name="millimeter_short">mm</string>
 
-    <string name="centimeter">Centimeter</string>
+    <string name="centimeter">Centimètre</string>
 
     <string name="centimeter_short">cm</string>
 
-    <string name="decimeter">Decimeter</string>
+    <string name="decimeter">Decimètre</string>
 
     <string name="decimeter_short">dm</string>
 
-    <string name="meter">Meter</string>
+    <string name="meter">Mètre</string>
 
     <string name="meter_short">m</string>
 
-    <string name="kilometer">Kilometer</string>
+    <string name="kilometer">Kilomètre</string>
 
     <string name="kilometer_short">km</string>
 
@@ -78,17 +78,17 @@
 
     <string name="yard_short">yd</string>
 
-    <string name="foot">Foot</string>
+    <string name="foot">Pied</string>
 
     <string name="foot_short">ft</string>
 
-    <string name="inch">Inch</string>
+    <string name="inch">Pouce</string>
 
     <string name="inch_short">in</string>
 
-    <string name="light_year">Light year</string>
+    <string name="light_year">Année-lumière</string>
 
-    <string name="light_year_short">ly</string>
+    <string name="light_year_short">al</string>
 
     <string name="parsec">Parsec</string>
 
@@ -98,7 +98,7 @@
 
     <string name="kiloparsec_short">kpc</string>
 
-    <string name="megaparsec">Megaparsec</string>
+    <string name="megaparsec">Mégaparsec</string>
 
     <string name="megaparsec_short">Mpc</string>
 
