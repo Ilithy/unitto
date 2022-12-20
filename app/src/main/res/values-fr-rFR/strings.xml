@@ -102,41 +102,41 @@
 
     <string name="megaparsec_short">Mpc</string>
 
-    <string name="mercury_equatorial_radius">Mercury equatorial radius</string>
+    <string name="mercury_equatorial_radius">Radius équatorial de mercure</string>
 
-    <string name="mercury_equatorial_radius_short">Mercury R</string>
+    <string name="mercury_equatorial_radius_short">R Mercure</string>
 
-    <string name="venus_equatorial_radius">Venus equatorial radius</string>
+    <string name="venus_equatorial_radius">Radius équatorial de Vénus</string>
 
-    <string name="venus_equatorial_radius_short">Venus R</string>
+    <string name="venus_equatorial_radius_short">R Vénus</string>
 
-    <string name="earth_equatorial_radius">Earth equatorial radius</string>
+    <string name="earth_equatorial_radius">Radius équatorial de la Terre</string>
 
-    <string name="earth_equatorial_radius_short">Earth R</string>
+    <string name="earth_equatorial_radius_short">R Terre</string>
 
-    <string name="mars_equatorial_radius">Mars equatorial radius</string>
+    <string name="mars_equatorial_radius">Radius équatorial de Mars</string>
 
-    <string name="mars_equatorial_radius_short">Mars R</string>
+    <string name="mars_equatorial_radius_short">R Mars</string>
 
-    <string name="jupiter_equatorial_radius">Jupiter equatorial radius</string>
+    <string name="jupiter_equatorial_radius">Radius équatorial de Jupiter</string>
 
-    <string name="jupiter_equatorial_radius_short">Jupiter R</string>
+    <string name="jupiter_equatorial_radius_short">R Jupiter</string>
 
-    <string name="saturn_equatorial_radius">Saturn equatorial radius</string>
+    <string name="saturn_equatorial_radius">Radius équatorial de Saturne</string>
 
-    <string name="saturn_equatorial_radius_short">Saturn R</string>
+    <string name="saturn_equatorial_radius_short">R Saturne</string>
 
-    <string name="uranus_equatorial_radius">Uranus equatorial radius</string>
+    <string name="uranus_equatorial_radius">Radius équatorial de Uranus</string>
 
-    <string name="uranus_equatorial_radius_short">Uranus R</string>
+    <string name="uranus_equatorial_radius_short">R Uranus</string>
 
-    <string name="neptune_equatorial_radius">Neptune equatorial radius</string>
+    <string name="neptune_equatorial_radius">Radius équatorial de Neptune</string>
 
-    <string name="neptune_equatorial_radius_short">Neptune R</string>
+    <string name="neptune_equatorial_radius_short">R Neptune</string>
 
-    <string name="sun_equatorial_radius">Sun equatorial radius</string>
+    <string name="sun_equatorial_radius">Radius équatorial du Soleil</string>
 
-    <string name="sun_equatorial_radius_short">Sun R</string>
+    <string name="sun_equatorial_radius_short">R Soleil</string>
 
     <!--Mass-->
 
