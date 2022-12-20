@@ -140,7 +140,7 @@
 
     <!--Mass-->
 
-    <string name="electron_mass_rest">Electron mass</string>
+    <string name="electron_mass_rest">Masse électronique</string>
 
     <string name="electron_mass_rest_short">me</string>
 
@@ -148,31 +148,31 @@
 
     <string name="atomic_mass_unit_short">u</string>
 
-    <string name="milligram">Milligram</string>
+    <string name="milligram">Milligramme</string>
 
     <string name="milligram_short">mg</string>
 
-    <string name="gram">Gram</string>
+    <string name="gram">Gramme</string>
 
     <string name="gram_short">g</string>
 
-    <string name="kilogram">Kilogram</string>
+    <string name="kilogram">Kilogramme</string>
 
     <string name="kilogram_short">kg</string>
 
-    <string name="metric_ton">Metric ton</string>
+    <string name="metric_ton">Tonne métrique</string>
 
     <string name="metric_ton_short">t</string>
 
-    <string name="imperial_ton">Imperial ton</string>
+    <string name="imperial_ton">Tonne impériale</string>
 
     <string name="imperial_ton_short">t (UK)</string>
 
-    <string name="pound">Pound</string>
+    <string name="pound">Livre sterling</string>
 
     <string name="pound_short">lbs</string>
 
-    <string name="ounce">Ounce</string>
+    <string name="ounce">Once</string>
 
     <string name="ounce_short">oz</string>
 
@@ -232,51 +232,51 @@
 
     <!--Speed-->
 
-    <string name="millimeter_per_hour">Millimeter per hour</string>
+    <string name="millimeter_per_hour">Millimètre par heure</string>
 
     <string name="millimeter_per_hour_short">mm/h</string>
 
-    <string name="millimeter_per_minute">Millimeter per minute</string>
+    <string name="millimeter_per_minute">Millimètre par minute</string>
 
     <string name="millimeter_per_minute_short">mm/m</string>
 
-    <string name="millimeter_per_second">Millimeter per second</string>
+    <string name="millimeter_per_second">Millimètre par seconde</string>
 
     <string name="millimeter_per_second_short">mm/s</string>
 
-    <string name="centimeter_per_hour">Centimeter per hour</string>
+    <string name="centimeter_per_hour">Centimètre par heure</string>
 
     <string name="centimeter_per_hour_short">cm/h</string>
 
-    <string name="centimeter_per_minute">Centimeter per minute</string>
+    <string name="centimeter_per_minute">Centimètre par minute</string>
 
     <string name="centimeter_per_minute_short">cm/m</string>
 
-    <string name="centimeter_per_second">Centimeter per second</string>
+    <string name="centimeter_per_second">Centimètre par seconde</string>
 
     <string name="centimeter_per_second_short">cm/s</string>
 
-    <string name="meter_per_hour">Meter per hour</string>
+    <string name="meter_per_hour">Mètre par heure</string>
 
     <string name="meter_per_hour_short">m/h</string>
 
-    <string name="meter_per_minute">Meter per minute</string>
+    <string name="meter_per_minute">Mètre par minute</string>
 
     <string name="meter_per_minute_short">m/m</string>
 
-    <string name="meter_per_second">Meter per second</string>
+    <string name="meter_per_second">Mètre par seconde</string>
 
     <string name="meter_per_second_short">m/s</string>
 
-    <string name="kilometer_per_hour">Kilometer per hour</string>
+    <string name="kilometer_per_hour">Kilomètre par heure</string>
 
     <string name="kilometer_per_hour_short">km/h</string>
 
-    <string name="kilometer_per_minute">Kilometer per minute</string>
+    <string name="kilometer_per_minute">Kilomètre par minute</string>
 
     <string name="kilometer_per_minute_short">km/m</string>
 
-    <string name="kilometer_per_second">Kilometer per second</string>
+    <string name="kilometer_per_second">Kilomètre par seconde</string>
 
     <string name="kilometer_per_second_short">km/s</string>
 
