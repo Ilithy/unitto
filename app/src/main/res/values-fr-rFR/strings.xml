@@ -498,31 +498,31 @@
 
     <!--Volume-->
 
-    <string name="attoliter">Attoliter</string>
+    <string name="attoliter">Attolitre</string>
 
     <string name="attoliter_short">aL</string>
 
-    <string name="milliliter">Milliliter</string>
+    <string name="milliliter">Millilitre</string>
 
     <string name="milliliter_short">mL</string>
 
-    <string name="liter">Liter</string>
+    <string name="liter">Litre</string>
 
     <string name="liter_short">L</string>
 
-    <string name="us_liquid_gallon">US liquid gallon</string>
+    <string name="us_liquid_gallon">gallon américain</string>
 
     <string name="us_liquid_gallon_short">gal (US)</string>
 
-    <string name="us_liquid_quart">US liquid quart</string>
+    <string name="us_liquid_quart">Quarts américain</string>
 
     <string name="us_liquid_quart_short">qt (US)</string>
 
-    <string name="us_liquid_pint">US liquid pint</string>
+    <string name="us_liquid_pint">Pinte américaine</string>
 
     <string name="us_liquid_pint_short">pt (US)</string>
 
-    <string name="us_legal_cup">US legal cup</string>
+    <string name="us_legal_cup">Tasse américaine</string>
 
     <string name="us_legal_cup_short">cup (US)</string>
 
@@ -584,19 +584,19 @@
 
     <!--Time-->
 
-    <string name="attosecond">Attosecond</string>
+    <string name="attosecond">Attoseconde</string>
 
     <string name="attosecond_short">as</string>
 
-    <string name="nanosecond">Nanosecond</string>
+    <string name="nanosecond">Nanoseconde</string>
 
     <string name="nanosecond_short">ns</string>
 
-    <string name="microsecond">Microsecond</string>
+    <string name="microsecond">Microseconde</string>
 
     <string name="microsecond_short">µs</string>
 
-    <string name="millisecond">Millisecond</string>
+    <string name="millisecond">Milliseconde</string>
 
     <string name="millisecond_short">ms</string>
 
@@ -604,7 +604,7 @@
 
     <string name="jiffy_short">j</string>
 
-    <string name="second">Second</string>
+    <string name="second">Seconde</string>
 
     <string name="second_short">s</string>
 
@@ -612,15 +612,15 @@
 
     <string name="minute_short">m</string>
 
-    <string name="hour">Hour</string>
+    <string name="hour">Heure</string>
 
     <string name="hour_short">h</string>
 
-    <string name="day">Day</string>
+    <string name="day">Jour</string>
 
     <string name="day_short">d</string>
 
-    <string name="week">Week</string>
+    <string name="week">Semaine</string>
 
     <string name="week_short">w</string>
 
@@ -688,7 +688,7 @@
 
     <string name="attojoule_short">aJ</string>
 
-    <string name="energy_horse_power_metric">Horse power</string>
+    <string name="energy_horse_power_metric">Cheval-vapeur</string>
 
     <string name="energy_horse_power_metric_short">hp</string>
 
@@ -700,7 +700,7 @@
 
     <string name="kilojoule_short">kJ</string>
 
-    <string name="gigajoule">Megajoule</string>
+    <string name="gigajoule">Mégajoule</string>
 
     <string name="gigajoule_short">MJ</string>
 
@@ -708,19 +708,19 @@
 
     <string name="megajoule_short">GJ</string>
 
-    <string name="energy_ton">Ton of TNT</string>
+    <string name="energy_ton">Tonne de TNT</string>
 
     <string name="energy_ton_short">t</string>
 
-    <string name="kiloton">Kiloton of TNT</string>
+    <string name="kiloton">Kilotonne de TNT</string>
 
     <string name="kiloton_short">kt</string>
 
-    <string name="megaton">Megaton of TNT</string>
+    <string name="megaton">Mégatonne de TNT</string>
 
     <string name="megaton_short">Mt</string>
 
-    <string name="gigaton">Gigaton of TNT</string>
+    <string name="gigaton">Gigatonne de TNT</string>
 
     <string name="gigaton_short">Gt</string>
 
@@ -750,13 +750,13 @@
 
     <string name="megawatt_short">MG</string>
 
-    <string name="horse_power_mechanical">Horsepower</string>
+    <string name="horse_power_mechanical">Cheval-vapeur</string>
 
     <string name="horse_power_mechanical_short">hp</string>
 
     <!--Angle-->
 
-    <string name="angle_second">Second</string>
+    <string name="angle_second">Seconde</string>
 
     <string name="angle_second_short" translatable="false">\"</string>
 
@@ -764,7 +764,7 @@
 
     <string name="angle_minute_short" translatable="false">\'</string>
 
-    <string name="degree">Degree</string>
+    <string name="degree">Degré</string>
 
     <string name="degree_short" translatable="false">°</string>
 
@@ -830,7 +830,7 @@
 
     <string name="bar_short">bar</string>
 
-    <string name="megapascal">Megapascal</string>
+    <string name="megapascal">Mégapascal</string>
 
     <string name="megapascal_short">MPa</string>
 
@@ -838,11 +838,11 @@
 
     <string name="gigapascal_short">GPA</string>
 
-    <string name="terapascal">Terapascal</string>
+    <string name="terapascal">Térapascal</string>
 
     <string name="terapascal_short">TPa</string>
 
-    <string name="petapascal">Petapascal</string>
+    <string name="petapascal">Pétapascal</string>
 
     <string name="petapascal_short">PPa</string>
 
