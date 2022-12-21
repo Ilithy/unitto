@@ -180,41 +180,41 @@
 
     <string name="carat_short">ct</string>
 
-    <string name="mercury_mass">Mercury mass</string>
+    <string name="mercury_mass">Masse de Mercure</string>
 
-    <string name="mercury_mass_short">Mercury M</string>
+    <string name="mercury_mass_short">M Mercury</string>
 
-    <string name="venus_mass">Venus mass</string>
+    <string name="venus_mass">Masse de Vénus</string>
 
-    <string name="venus_mass_short">Venus M</string>
+    <string name="venus_mass_short">M Vénus</string>
 
-    <string name="earth_mass">Earth mass</string>
+    <string name="earth_mass">Masse de la Terre</string>
 
-    <string name="earth_mass_short">Earth M</string>
+    <string name="earth_mass_short">M Terre</string>
 
-    <string name="mars_mass">Mars mass</string>
+    <string name="mars_mass">Masse de Mars</string>
 
-    <string name="mars_mass_short">Mars M</string>
+    <string name="mars_mass_short">M Mars</string>
 
-    <string name="jupiter_mass">Jupiter mass</string>
+    <string name="jupiter_mass">Masse de Jupiter</string>
 
-    <string name="jupiter_mass_short">Jupiter M</string>
+    <string name="jupiter_mass_short">Masse de Jupiter</string>
 
-    <string name="saturn_mass">Saturn mass</string>
+    <string name="saturn_mass">Masse de Saturne</string>
 
-    <string name="saturn_mass_short">Saturn M</string>
+    <string name="saturn_mass_short">M Saturne</string>
 
-    <string name="uranus_mass">Uranus mass</string>
+    <string name="uranus_mass">Masse de Uranus</string>
 
-    <string name="uranus_mass_short">Uranus M</string>
+    <string name="uranus_mass_short">M Uranus</string>
 
-    <string name="neptune_mass">Neptune mass</string>
+    <string name="neptune_mass">Masse de Neptune</string>
 
-    <string name="neptune_mass_short">Neptune M</string>
+    <string name="neptune_mass_short">M Neptune</string>
 
-    <string name="sun_mass">Sun mass</string>
+    <string name="sun_mass">Masse du Soleil</string>
 
-    <string name="sun_mass_short">Sun M</string>
+    <string name="sun_mass_short">M Soleil</string>
 
     <!--Temperature-->
 
@@ -280,51 +280,51 @@
 
     <string name="kilometer_per_second_short">km/s</string>
 
-    <string name="foot_per_hour">Foot per hour</string>
+    <string name="foot_per_hour">Pied par heure</string>
 
     <string name="foot_per_hour_short">ft/h</string>
 
-    <string name="foot_per_minute">Foot per minute</string>
+    <string name="foot_per_minute">Pied par minute</string>
 
     <string name="foot_per_minute_short">ft/m</string>
 
-    <string name="foot_per_second">Foot per second</string>
+    <string name="foot_per_second">Pied par seconde</string>
 
     <string name="foot_per_second_short">ft/s</string>
 
-    <string name="yard_per_hour">Yard per hour</string>
+    <string name="yard_per_hour">Yard par heure</string>
 
     <string name="yard_per_hour_short">yd/h</string>
 
-    <string name="yard_per_minute">Yard per minute</string>
+    <string name="yard_per_minute">Yard par minute</string>
 
     <string name="yard_per_minute_short">yd/m</string>
 
-    <string name="yard_per_second">Yard per second</string>
+    <string name="yard_per_second">Yard par seconde</string>
 
     <string name="yard_per_second_short">yd/s</string>
 
-    <string name="mile_per_hour">Mile per hour</string>
+    <string name="mile_per_hour">Mile par heure</string>
 
     <string name="mile_per_hour_short">mi/h</string>
 
-    <string name="mile_per_minute">Mile per minute</string>
+    <string name="mile_per_minute">Mile par minute</string>
 
     <string name="mile_per_minute_short">mi/m</string>
 
-    <string name="mile_per_second">Mile per second</string>
+    <string name="mile_per_second">Mile par seconde</string>
 
     <string name="mile_per_second_short">mi/s</string>
 
-    <string name="knot">Knot</string>
+    <string name="knot">Nœud</string>
 
-    <string name="knot_short">kt</string>
+    <string name="knot_short">nd</string>
 
     <string name="velocity_of_light_in_vacuum">Speed of light in vacuum</string>
 
     <string name="velocity_of_light_in_vacuum_short" translatable="false">c</string>
 
-    <string name="cosmic_velocity_first">First Cosmic Velocity</string>
+    <string name="cosmic_velocity_first">Vitesse de satellisation minimale</string>
 
     <string name="cosmic_velocity_first_short" translatable="false">v1</string>
 
